@@ -72,7 +72,7 @@ require "config.php";
             <a href="https://www.twitter.com/">Twitter</a><br>
 
             <br><br>
-            <h5>Ezequiel Oliveira (Back-End):</h5><br>
+            <h5>Ezequiel Oliveira (Back-End & JQuery/Ajax):</h5><br>
             <a href="https://github.com/devEzequiel/">GitHub</a><br>
             <a href="https://www.linkedin.com/in/ezequiel-s-oliveira-a909b51b9/">LinkedIn</a><br>
             <a href="https://www.facebook.com/ezequiel.s.oliveira.79/">Facebook</a><br>
