@@ -32,5 +32,5 @@ Este sistema oferece apenas uma hierarquia: a de administrador geral. Na qual o 
 
 Para obter acesso como administrador é necessário apenas criar uma conta no painel de login.
 <h1 align="center">
-  <img src="assets/images/add.png">
+  <img src="assets/images/sign.png">
 </h1> <br><br>
