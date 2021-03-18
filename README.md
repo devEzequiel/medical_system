@@ -68,7 +68,7 @@ O cadastro de um novo funcionário no sistema é feito da mesma forma, entretant
   <img src="assets/images/emp.png">
 </h1> <br><br>
 
-#### Edição de registros
+#### Editar de registros
 
 Para editar um registro de um Médico ou Funcionário, basta clicar no símbolo de edição (🖊), adjacente ao registro desejado. Após isso aparecerá uma janela modal com os dados do registro selecionado. Um fato interessante é que não há a possibilidade de alterar o CPF ou CRM no caso do médico.
 
@@ -76,3 +76,26 @@ Para editar um registro de um Médico ou Funcionário, basta clicar no símbolo 
   <img src="assets/images/edit.png">
 </h1> <br><br>
 
+#### Deletar registros
+
+Clicando no ícone de lixeira adjacente ao registro desejado, aparece um botão interrogando se há realmente o desejo de deleção do registro, caso seja negado o registro permanecerá intacto.
+
+<h1 align="center">
+  <img src="assets/images/delete.png">
+</h1> <br><br>
+
+#### Enviar email (em fase de teste)
+
+Ao clicar no ícone de email adjacente ao registro que deseja contactar, abre-se uma janela modal com o email utilizado no ato do registro do médico ou funcionário já informado.
+
+<h1 align="center">
+  <img src="assets/images/email.png">
+</h1> <br><br>
+
+#### Sair do sistema
+
+Ao clicar no seu nome (canto superior direito da tela), irá aparecer um botão de sair, ao clicar nele você será desconectado automaticamente do site e redirecionado para página de login.
+
+<h1 align="center">
+  <img src="assets/images/out.png">
+</h1> <br><br>
