@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{/*Janela Principal*/
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    background-image: linear-gradient(to bottom, rgb(162, 162, 255), rgb(200, 240, 241));
+}
+.box{/*Janela Centralizada*/
+    width: 400px;
+    height: 400px;
+    background-color: #dfe1ff;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 5px;
+    position: relative;
+}
+.text_login{/*Textos contidos no login/cadastro*/
+    text-align: center;
+    margin-top: 10px;
+}
+.div_text_login{/*Div que contem o textos do login/cadastro*/
+    margin-top: 60px;
+    background-color: #999999;
+    color:#dfe1ff;
+}
+
+.form-control{/*Espaço do inputs*/
+    margin: 20px 15px 0 15px;
+    width: 360px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 0 0;
+    border: 1px solid gray;
+    outline: none;
+    padding-left: 10px;
+}
+.form-control:focus{
+    background-color: rgb(255, 255, 255);
+}
+#div1, #div2{/*Aba do login*/
+    display: none;
+}
+
+#div1 a{
+    position: absolute;
+    text-decoration: none;
+    top:45vh;
+    color: rgb(0, 183, 255);
+    left: 1vw;
+}
+#sem-linha{/*Divs que contem os botões de abas*/
+    position: fixed;
+    margin-top: 363px;
+}
+.btn{/*Botão de acessar o login/cadastro*/
+    padding: 10px 30px;
+    cursor: pointer;
+    float: right;
+    margin: 20px 15px 0 0;
+    border-radius: 10px;
+    box-shadow: 0 0 0 0;
+    border: 1px solid rgb(177, 177, 177);
+    outline: none;
+    transition: 500ms;
+}
+.btn:hover{
+    box-shadow: 1px 1px 5px black;
+    background-color: #000;
+    color: #fff;
+ 
+}
+.borda{/*Botões de abas*/
+    background-color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    border: 1px solid gray;
+    color: #000;
+    border-radius: 5px 5px 0 0;    
+}
+
+#btn-one{/*Marca um botão como ativo*/
+    background-color: #b1b1b1;
+}
+#text_error, #text_register_error, #text_register_confirm{
+    margin: 20px;
+    font-size: 18px;
+    font-family: Tahoma, Verdana, Geneva,  sans-serif;
+}
+#text_error, #text_register_error{color: rgb(211, 42, 42);}
+#text_register_confirm{color:rgb(8, 92, 8)}

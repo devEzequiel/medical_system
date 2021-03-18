@@ -1,0 +1,62 @@
+.esp_modal{
+    margin-left: 20px;
+    width: 45%;
+    height: 40px;
+    padding: 8.5px 10px 9.5px 10px;
+    outline: none;
+    border: 1px solid rgb(145, 144, 144);
+}
+.name_modal{
+    width: 45%;
+    height: 40px;
+}
+.cpf_modal, .cel_modal, .crm_modal, .data{
+    width: 25%;
+    margin-top: 30px;
+    height: 40px;
+}
+.cpf_modal, .cel_modal{
+    margin-left: 40px;
+}
+.mail_modal, .turno_modal{
+    margin-top: 30px;
+    width: 45%;
+}
+.turno_modal{
+    margin-top: 1px;
+    height: 39.5px;
+    margin-left: 40px;
+    padding: 8.5px 10px 9.5px 10px;
+    outline: none;
+    border: 1px solid gray;
+}
+.mail_modal{
+    height: 40px;
+}
+.name_modal,.cpf_modal, .cel_modal, .crm_modal, .mail_modal, .data{
+    outline: none;
+    border: 1px solid gray;
+    padding: 10px;
+}
+#cpf_mm, #crm_mm, #birthe, #cpfe{
+    background-color: rgb(245, 239, 239);
+}
+#about_mail-doctor, #about_mail-employee{
+    margin:20px 0;
+}
+#body-mail-doctor, #body-mail-employee{
+    resize: none;
+    padding: 10px;
+}
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}
+/*Modal feedback*/
+.modal-footer{
+    position: relative;
+}
+#medic-feedback,#funcio-feedback{
+    color: green;
+    left:20px;
+    position: absolute;
+}
