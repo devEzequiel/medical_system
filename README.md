@@ -46,8 +46,33 @@ Para obter acesso como administrador é necessário apenas criar um novo usuári
 
 Algumas ferramentas foram adicionadas para melhorar a expêriencia do usuário.
 
+#### Pesquisa de registros
 A função de pesquisar um médico ou funcionário através do nome facilita em casos que haja muitos registros no sistema.
 
 <h1 align="center">
   <img src="assets/images/search.png">
 </h1> <br><br>
+
+#### Adicionar Médico
+Há a possibilidade de registrar um novo médico no sistema, entretanto não será aceito o registro caso já exista o mesmo CPF, CRM ou e-mail registrado. Caso estes dados sejam inéditos, o médico é adicionado instantaneamente e o registro aparece na tabela automaticamente. 
+
+<h1 align="center">
+  <img src="assets/images/warning.png">
+</h1> <br><br> 
+
+#### Adicionar Funcionário
+
+O cadastro de um novo funcionário no sistema é feito da mesma forma, entretanto as restrições são apenas duas: CPF e e-mail.
+
+<h1 align="center">
+  <img src="assets/images/emp.png">
+</h1> <br><br>
+
+#### Edição de registros
+
+Para editar um registro de um Médico ou Funcionário, basta clicar no símbolo de edição (🖊), adjacente ao registro desejado. Após isso aparecerá uma janela modal com os dados do registro selecionado. Um fato interessante é que não há a possibilidade de alterar o CPF ou CRM no caso do médico.
+
+<h1 align="center">
+  <img src="assets/images/edit.png">
+</h1> <br><br>
+
