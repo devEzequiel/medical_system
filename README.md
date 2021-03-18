@@ -1,6 +1,6 @@
 # Medical System
 
-❗ Para facilitar o acesso do usuário, foi decidido hospedar esse site em um Host gratuito, que apesar de limitar em algumas funções, consegue executar bem as funções do site.
+❗ Para facilitar o acesso do usuário, foi decidido hospedar esse site em um Host gratuito, que apesar das limitações, consegue executar bem as funções do site.
 Acesse em: [**Medical System**](encurtador.com.br/buEV9)
 
 ---
