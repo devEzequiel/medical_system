@@ -99,3 +99,29 @@ Ao clicar no seu nome (canto superior direito da tela), irá aparecer um botão 
 <h1 align="center">
   <img src="assets/images/out.png">
 </h1> <br><br>
+
+---
+
+## 🔌 Tecnologias Utilizadas
+
+Todas as funções listadas acima foram desenvolvidas com as seguintes Tecnologias:
+
+#### Front-End
+<br>
+- HTML
+- CSS
+- [Bootstrap](https://getbootstrap.com/)
+- [JQuery](https://api.jquery.com/)
+
+#### Requisições
+<br>
+- [Ajax](https://api.jquery.com/jquery.ajax/)
+
+#### Back-End
+<br>
+- [PHP](https://php.net)
+
+#### Banco de Dados
+<br>
+- MySQL
+
