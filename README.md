@@ -15,7 +15,7 @@ Acesse em: [**Medical System**](https://encurtador.com.br/buEV9)
 - [Sobre](#-sobre)
 - [Principais Funções](#-principais-funções)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Colaboradores]
+- [Colaboradores](#-colaboradores)
 
 ---
 
@@ -104,7 +104,7 @@ Ao clicar no seu nome (canto superior direito da tela), irá aparecer um botão 
 
 ## 🔌 Tecnologias Utilizadas
 
-Todas as funções listadas acima foram desenvolvidas com as seguintes Tecnologias:
+Todas as funções listadas acima foram desenvolvidas com as seguintes tecnologias:
 
 #### Front-End
 
@@ -115,7 +115,8 @@ Todas as funções listadas acima foram desenvolvidas com as seguintes Tecnologi
 
 #### Requisições
 
-- [Ajax](https://api.jquery.com/jquery.ajax/)
+- [AJAX](https://api.jquery.com/jquery.ajax/)
+- [JSON](https://www.json.org/json-en.html)
 
 #### Back-End
 
@@ -124,4 +125,15 @@ Todas as funções listadas acima foram desenvolvidas com as seguintes Tecnologi
 #### Banco de Dados
 
 - MySQL
+
+---
+
+## 🎓 Colaboradores
+
+[**Diego**](https://github.com/King-ego) foi responsável pela produção de todo o layout do sistema, utlizando HTML, CSS, BootStrap e JQuery
+
+---
+[**Ezequiel**](https://github.com/devEzequiel), por sua vez, foi responsável por toda configuração de back-end e implementações das regras de negócios, utilizando PHP OOP e Banco de Dados MySQL. Além de criar todas as requisições utilizando AJAX & JQuery.
+
+
 
