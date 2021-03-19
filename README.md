@@ -133,7 +133,7 @@ Todas as funções listadas acima foram desenvolvidas com as seguintes tecnologi
 [**Ezequiel**](https://github.com/devEzequiel) foi responsável pelo back-end e implementações das regras de negócios, utilizando PHP OOP e Banco de Dados MySQL. Criou também todas as requisições assíncronas trabalhando com AJAX, JQuery e JSON.
 
 ---
-[**Diego**](https://github.com/King-ego) foi responsável pela produção de todo o layout do sistema, utlizando HTML, CSS, BootStrap e JQuery
+[**Diego**](https://github.com/King-ego) foi responsável pela produção do layout do sistema, utlizando HTML, CSS, BootStrap e JQuery
 
 
 
