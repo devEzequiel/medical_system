@@ -1,7 +1,7 @@
 # Medical System
 
 ❗ Para facilitar o acesso do usuário, foi decidido hospedar esse site em um Host gratuito, que apesar das limitações, consegue executar bem as funções do site.
-Acesse em: [**Medical System**](https://encurtador.com.br/buEV9)
+Acesse em: [**Medical System**](https://medicalsystem00.000webhostapp.com)
 
 ---
 <h1 align="center">
